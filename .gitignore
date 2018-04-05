@@ -1,3 +1,5 @@
 ./*/.git
 .DS_STORE
 ._DS_STORE
+./*/.DS_STORE
+./*/._DS_STORE
