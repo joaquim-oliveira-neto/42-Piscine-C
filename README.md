@@ -3,7 +3,7 @@ Contains all the my work for the C piscine in 42 School. I've attended the C Pis
 
 # Helpers
 
-1. [42-notes-evernote](https://docs.google.com/document/d/1JnJ7t6XXvaFNm9T6U1b1-sNH6F1JZdIvvynxISwJmuk/edit?usp=sharing) [42-notes-google-docs](https://www.evernote.com/shard/s161/sh/ba41db19-8c36-4638-aed2-93144d62498f/c66ab41a9a95057934c45eb836cc1bb2) My notes from 42 mini-video-lectures
+1. [42-notes-evernote](https://docs.google.com/document/d/1JnJ7t6XXvaFNm9T6U1b1-sNH6F1JZdIvvynxISwJmuk/edit?usp=sharing) | [42-notes-google-docs](https://www.evernote.com/shard/s161/sh/ba41db19-8c36-4638-aed2-93144d62498f/c66ab41a9a95057934c45eb836cc1bb2) My notes from 42 mini-video-lectures
 
 2. [42-testimonial](https://github.com/fwuensche/42-testimonial) A tool with some test cases for your solutions that you should pass before pushing them to vogsphere. Note that it doesn't cover all the tests molinette uses
 
