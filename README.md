@@ -1,6 +1,15 @@
 # 42-Piscine-C
 Contains all the my work for the C piscine in 42 School. I've attended the C Piscine from March 12 until April 6 2018.
 
+# Helpers
+
+1. [42-notes-evernote](https://docs.google.com/document/d/1JnJ7t6XXvaFNm9T6U1b1-sNH6F1JZdIvvynxISwJmuk/edit?usp=sharing) [42-notes-google-docs](https://www.evernote.com/shard/s161/sh/ba41db19-8c36-4638-aed2-93144d62498f/c66ab41a9a95057934c45eb836cc1bb2) My notes from 42 mini-video-lectures
+
+2. [42-testimonial](https://github.com/fwuensche/42-testimonial) A tool with some test cases for your solutions that you should pass before pushing them to vogsphere. Note that it doesn't cover all the tests molinette uses
+
+3. [42-exam-mines](https://github.com/fwuensche/42-exam-miner) Exam exercises to prepare yourself
+
+
 # Results
 
 ## Moulinette evaluations
@@ -75,7 +84,7 @@ ex00: Does not compile | ex01: Does not compile | ex02: Nothing turned in | ex03
 EVALUATED BY MOULINETTE 4 DAYS AGO  40%
 ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: Nothing turned in | ex06: Nothing turned in | ex07: Nothing turned in | ex08: Nothing turned in | ex09: Nothing turned in
 
-## Rushes
+## Group Projects
 
 ### Rush 00
 
@@ -84,14 +93,14 @@ Awesome team. Everyone understands. Great job!
 
 ### Rush 01
 
-Nothing turned in
+Forgot to register in the project
 
 ### Rush 02
 
 EVALUATED BY BRABO-HI 7 HOURS AGO  100%
 I like the way they architecture the code. And using list instead of array gives they have clear understanding of the topics.
 
-## Projects
+## Individual Projects
 
 ### Sastantua
 
@@ -111,3 +120,4 @@ ex00: OK
 ### BSQ
 
 Loading...
+
