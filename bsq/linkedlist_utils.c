@@ -16,9 +16,13 @@ t_list	*ft_create_node(char c)
 {
 	t_list	*list;
 
-	list = (t_list*)malloc(sizeof(*list));
-	list->next = NULL;
-	list->data = c;
+	if ((list = (t_list*)malloc(sizeof(*list))))
+	{
+		list->next = NULL;
+		list->data = c;
+	}
+	else
+		return (NULL);
 	return (list);
 }
 
@@ -47,16 +51,20 @@ char	*ft_concat_list(t_list *list, int len)
 	i = 0;
 	if (list)
 	{
-		str = (char*)malloc(sizeof(*str) * (len + 1));
-		while (i < len)
+		if ((str = (char*)malloc(sizeof(*str) * (len + 1))))
 		{
-			str[i] = list->data;
-			tmp = list;
-			list = list->next;
-			free(tmp);
-			i++;
+			while (i < len)
+			{
+				str[i] = list->data;
+				tmp = list;
+				list = list->next;
+				free(tmp);
+				i++;
+			}
+			str[i] = '\0';
 		}
-		str[i] = '\0';
+		else
+			return (NULL);
 	}
 	return (str);
 }

@@ -44,6 +44,8 @@ char	*ft_import_stdin(void)
 		str_size = 0;
 		while (read(0, &buf, 1) > 0)
 		{
+			if (buf != g_empty && buf != g_obstacle && buf != '\n')
+				return (NULL);
 			ft_push_list(&list, buf);
 			str_size++;
 		}
@@ -66,6 +68,8 @@ char	*ft_import_file(char *file)
 		str_size = 0;
 		while (read(fd, &buf, 1) > 0)
 		{
+			if (buf != g_empty && buf != g_obstacle && buf != '\n')
+				return (NULL);
 			ft_push_list(&list, buf);
 			str_size++;
 		}

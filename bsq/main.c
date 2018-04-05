@@ -6,7 +6,7 @@
 /*   By: jde-oliv <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/04/02 12:30:27 by jde-oliv          #+#    #+#             */
-/*   Updated: 2018/04/02 21:42:02 by jde-oliv         ###   ########.fr       */
+/*   Updated: 2018/04/04 15:55:30 by alyle            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -25,6 +25,7 @@ int	bsq(char *str)
 		}
 		ft_putstr(str);
 		free(str);
+		str = NULL;
 	}
 	else
 		write(2, "map error\n", 10);
