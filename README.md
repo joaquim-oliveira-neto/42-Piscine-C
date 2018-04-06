@@ -1,5 +1,6 @@
 # 42-Piscine-C
-Contains all the my work for the C piscine in 42 School. I've attended the C Piscine from March 12 until April 6 2018.
+Contains all the my work for the C piscine in 42 School. I've attended the C Piscine from March 12 until April 6 2018
+42 username: jde-oliv
 
 # Helpers
 
