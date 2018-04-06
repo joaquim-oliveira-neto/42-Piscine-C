@@ -7,7 +7,7 @@ Contains all the my work for the C piscine in 42 School. I've attended the C Pis
 
 2. [42-testimonial](https://github.com/fwuensche/42-testimonial) A tool with some test cases for your solutions that you should pass before pushing them to vogsphere. Note that it doesn't cover all the tests molinette uses
 
-3. [42-exam-mines](https://github.com/fwuensche/42-exam-miner) Exam exercises to prepare yourself
+3. [42-exam-miner](https://github.com/fwuensche/42-exam-miner) Exam exercises to prepare yourself
 
 
 # Results
